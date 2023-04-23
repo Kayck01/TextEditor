@@ -1,0 +1,15 @@
+C:\dev\NewTextEditor\bin\Debug\net7.0\NewTextEditor.exe
+C:\dev\NewTextEditor\bin\Debug\net7.0\NewTextEditor.deps.json
+C:\dev\NewTextEditor\bin\Debug\net7.0\NewTextEditor.runtimeconfig.json
+C:\dev\NewTextEditor\bin\Debug\net7.0\NewTextEditor.dll
+C:\dev\NewTextEditor\bin\Debug\net7.0\NewTextEditor.pdb
+C:\dev\NewTextEditor\obj\Debug\net7.0\NewTextEditor.csproj.AssemblyReference.cache
+C:\dev\NewTextEditor\obj\Debug\net7.0\NewTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NewTextEditor\obj\Debug\net7.0\NewTextEditor.AssemblyInfoInputs.cache
+C:\dev\NewTextEditor\obj\Debug\net7.0\NewTextEditor.AssemblyInfo.cs
+C:\dev\NewTextEditor\obj\Debug\net7.0\NewTextEditor.csproj.CoreCompileInputs.cache
+C:\dev\NewTextEditor\obj\Debug\net7.0\NewTextEditor.dll
+C:\dev\NewTextEditor\obj\Debug\net7.0\refint\NewTextEditor.dll
+C:\dev\NewTextEditor\obj\Debug\net7.0\NewTextEditor.pdb
+C:\dev\NewTextEditor\obj\Debug\net7.0\NewTextEditor.genruntimeconfig.cache
+C:\dev\NewTextEditor\obj\Debug\net7.0\ref\NewTextEditor.dll
